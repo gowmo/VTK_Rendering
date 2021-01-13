@@ -1,1 +1,1 @@
-# WayneState_ComputerGraphics_CSC6870_Assignment1
+# 3D volume rendering using VTK toolkit
