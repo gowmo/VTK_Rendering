@@ -10,4 +10,3 @@
 
 Please find the source code fot the project in the 'src' folder in the zip file. 
 
-I tried a lot with respect to the color changing part and acheive it perfectly, but couldn't just pull it off.
